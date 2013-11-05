@@ -10,7 +10,8 @@ var crawlerUserAgents = [
   'bingbot',
   'baiduspider',
   'facebookexternalhit',
-  'twitterbot'
+  'twitterbot',
+  '+https://developers.google.com/+/web/snippet/'
 ];
 
 var extensionsToIgnore = [
